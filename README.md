@@ -1,18 +1,6 @@
 # 🧠 Exercism — Trilha de Exercícios
 
-Repositório pessoal dedicado às soluções e aprendizados obtidos através da plataforma [Exercism](https://exercism.org), utilizada como ferramenta de prática e aprimoramento em programação.
-
----
-
-## 📌 Sobre
-
-O [Exercism](https://exercism.org) é uma plataforma gratuita e open-source de prática de programação que oferece exercícios em mais de 60 linguagens, com feedback de mentores voluntários da comunidade.
-
-Este repositório organiza minhas soluções de forma que sirvam como:
-
-- 📚 Registro pessoal de progresso
-- 🔍 Referência para revisão futura
-- 💡 Portfólio de raciocínio e resolução de problemas
+Repositório dedicado às soluções e exercícios obtidos através da plataforma [Exercism](https://exercism.org), utilizada como ferramenta de prática.
 
 ---
 
@@ -42,16 +30,6 @@ exercism/
 | JavaScript   | 🟡 Planejado    |
 | ...          | ...             |
 
-> Atualize esta tabela conforme for avançando nas trilhas!
-
----
-
-## 📈 Progresso
-
-- [ ] Completar trilha de Python
-- [ ] Completar trilha de JavaScript
-- [ ] Atingir 50 exercícios resolvidos
-- [ ] Receber feedback de mentores
 
 ---
 
@@ -87,14 +65,3 @@ Se quiser rodar algum exercício localmente:
 - [Documentação de trilhas](https://exercism.org/docs)
 - [Como instalar o CLI do Exercism](https://exercism.org/docs/using/solving-exercises/working-locally)
 
----
-
-## 📝 Notas Pessoais
-
-> Espaço livre para anotar aprendizados, dificuldades encontradas ou qualquer reflexão sobre a jornada de estudos.
-
----
-
-## 📄 Licença
-
-Este repositório é de uso pessoal e educacional. As soluções aqui presentes representam meu próprio raciocínio e aprendizado.
